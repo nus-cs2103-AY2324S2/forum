@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Remember to give sufficient details e.g.,
+<!--Remember to give sufficient details e.g.,
 * Your development environment (IntelliJ version, Java version, OS, ...)
 * Relevant code, error message, stack trace
 * Relevant code snippet (an example given below), or link to the relevant code on your GitHub repo
@@ -16,4 +16,8 @@ Remember to give sufficient details e.g.,
 String value = "Some code here"
 ```
 
-:bulb: You can use [Markdown](https://guides.github.com/features/mastering-markdown/) to format your text
+You can use Markdown to format your text. See https://guides.github.com/features/mastering-markdown/
+
+Remember to close the issue after your problem is resolved.
+
+Delete these instructions before posting.-->
