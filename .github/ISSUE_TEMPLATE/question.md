@@ -6,3 +6,5 @@ labels: 'type-Question :thinking:'
 assignees: ''
 
 ---
+
+<!-- remember to close the issue after the question has been answered -->
