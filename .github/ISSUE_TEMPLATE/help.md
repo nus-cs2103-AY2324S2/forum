@@ -1,6 +1,6 @@
 ---
 name: Requesting for help
-about: Template for seekling help
+about: Template for seeking help
 title: ''
 labels: 'type-HelpRequest :sos:'
 assignees: ''
